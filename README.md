@@ -4,7 +4,7 @@ Assistente pessoal que organiza **tarefas** e **finanças** pelo Telegram. Em ve
 
 Inclui lembretes automáticos de prazos e um painel web com gráficos de gastos e tarefas.
 
-> 📸 *Adicione aqui um print ou GIF do bot e do dashboard funcionando.*
+![Print do Bot funcionando](https://github.com/Arthurribs/artemis-bot/blob/8b07c3f520aa640c93e6a2b5c07069c542dda385/Artemis_bot.jpeg)
 
 ---
 
