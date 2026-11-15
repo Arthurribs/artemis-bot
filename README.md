@@ -51,7 +51,7 @@ As instruções de sistema incluem a data atual, para o agente interpretar expre
 
 **1. Clone e instale as dependências**
 ```bash
-git clone https://github.com/SEU_USUARIO/artemis-bot.git
+git clone https://github.com/Arthurribs/artemis-bot.git
 cd artemis-bot
 python -m venv venv
 venv\Scripts\activate        # Windows
@@ -97,4 +97,4 @@ streamlit run dashboard.py
 
 **Arthur Ribeiro dos Santos** — estudante de Análise e Desenvolvimento de Sistemas (Universidade Veiga de Almeida)
 
-[LinkedIn](https://linkedin.com/in/SEU_PERFIL) · [E-mail](mailto:arthurrib07@gmail.com)
+[GitHub](https://github.com/Arthurribs) · [E-mail](mailto:arthurrib07@gmail.com)
