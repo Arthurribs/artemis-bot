@@ -19,7 +19,7 @@ from database import (
 from agente import responder
 
 load_dotenv()
-TOKEN = os.getenv("TELEGRAM_TOKEN")
+TOKEN = os.getenv("TELEGRAM_TOKEN") or os.getenv("TELEGRAM_BOT_TOKEN")
 CHAT_ID = os.getenv("CHAT_ID")
 
 FUSO = ZoneInfo("America/Sao_Paulo")
