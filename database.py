@@ -1,7 +1,9 @@
+import os
 import sqlite3
 from datetime import date, timedelta
 
-ARQUIVO = "artemis.db"
+# No servidor, DB_PATH aponta para a pasta que não é apagada (/data). No PC, usa artemis.db.
+ARQUIVO = os.getenv("DB_PATH", "artemis.db")
 
 
 def conectar():
