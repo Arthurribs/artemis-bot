@@ -73,6 +73,7 @@ python bot.py
 
 **4. Rode o dashboard** (em outro terminal)
 ```bash
+pip install -r requirements-dashboard.txt
 streamlit run dashboard.py
 ```
 

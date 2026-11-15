@@ -1,0 +1,3 @@
+# Dashboard (roda no PC): pip install -r requirements-dashboard.txt
+-r requirements.txt
+streamlit
